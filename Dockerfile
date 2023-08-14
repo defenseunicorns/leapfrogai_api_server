@@ -10,7 +10,7 @@ ADD config config
 ADD pkg pkg
 ADD models.toml .
 RUN go env
-RUN GOOS=linux GOARCH=arm64  CGO_ENABLED=0 go build -ldflags '-extldflags "-static"' -o app main.go
+RUN GOOS=linux GOARCH=amd64  CGO_ENABLED=0 go build -ldflags '-extldflags "-static"' -o app main.go
 
 FROM cgr.dev/chainguard/static:latest
 COPY --from=build /work/app /app
