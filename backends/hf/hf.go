@@ -7,9 +7,9 @@ import (
 	"log"
 	"strings"
 
-	"github.com/defenseunicorns/leapfrogai/api/config"
-	"github.com/defenseunicorns/leapfrogai/pkg/client/completion"
-	"github.com/defenseunicorns/leapfrogai/pkg/util"
+	"github.com/defenseunicorns/leapfrogai_api_server/config"
+	"github.com/defenseunicorns/leapfrogai_api_server/pkg/client/completion"
+	"github.com/defenseunicorns/leapfrogai_api_server/pkg/util"
 	"github.com/gin-gonic/gin"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"

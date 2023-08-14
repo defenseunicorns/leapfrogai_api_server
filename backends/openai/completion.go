@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/defenseunicorns/leapfrogai/pkg/client/completion"
-	"github.com/defenseunicorns/leapfrogai/pkg/util"
+	"github.com/defenseunicorns/leapfrogai_api_server/pkg/client/completion"
+	"github.com/defenseunicorns/leapfrogai_api_server/pkg/util"
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
 	"github.com/sashabaranov/go-openai"

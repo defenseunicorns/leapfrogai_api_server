@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/defenseunicorns/leapfrogai/api/backends/hf"
-	"github.com/defenseunicorns/leapfrogai/api/backends/openai"
-	"github.com/defenseunicorns/leapfrogai/api/config"
+	"github.com/defenseunicorns/leapfrogai_api_server/backends/hf"
+	"github.com/defenseunicorns/leapfrogai_api_server/backends/openai"
+	"github.com/defenseunicorns/leapfrogai_api_server/config"
 	"github.com/gin-gonic/gin"
 	"github.com/penglongli/gin-metrics/ginmetrics"
 )

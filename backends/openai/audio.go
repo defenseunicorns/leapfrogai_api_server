@@ -5,7 +5,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/defenseunicorns/leapfrogai/pkg/client/audio"
+	"github.com/defenseunicorns/leapfrogai_api_server/pkg/client/audio"
 	"github.com/gin-gonic/gin"
 )
 
