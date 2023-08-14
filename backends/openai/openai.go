@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/defenseunicorns/leapfrogai/api/config"
+	"github.com/defenseunicorns/leapfrogai_api_server/config"
 	"github.com/gin-gonic/gin"
 	"github.com/sashabaranov/go-openai"
 	"google.golang.org/grpc"

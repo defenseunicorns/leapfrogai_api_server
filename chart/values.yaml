@@ -1,0 +1,32 @@
+domain: bigbang.dev
+
+image:
+  tag: 0.1.0
+
+istio:
+  enabled: false
+  gateway: tenant
+
+api:
+  replicas: 1
+  port: 8080
+
+monitoring:
+  enabled: false
+
+models:
+  stablelm3b:
+    enabled: false
+    name: stablelm-3b
+
+  all_MiniLM_L6_v2:
+    enabled: false
+    name: all-MiniLM-L6-v2
+
+  whisper:
+    enabled: false
+    name: whisper
+
+  repeater:
+    enabled: false
+    name: repeater

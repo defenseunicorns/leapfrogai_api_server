@@ -5,7 +5,7 @@ import (
 	"log"
 	"reflect"
 
-	"github.com/defenseunicorns/leapfrogai/pkg/client/embeddings"
+	"github.com/defenseunicorns/leapfrogai_api_server/pkg/client/embeddings"
 	"github.com/gin-gonic/gin"
 	"google.golang.org/grpc"
 )
