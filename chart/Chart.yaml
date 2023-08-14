@@ -1,0 +1,12 @@
+apiVersion: v2
+name: leapfrogaiapiserver
+description: |
+  "Deploys the Leapfrog Go API Server into the cluster"
+type: application
+version: 0.1.0
+appVersion: 0.1.0
+
+annotations:
+  helm.sh/images: |
+    - name: leapfrogaiapiserver
+      image: ghcr.io/defenseunicorns/leapfrog_api_server:0.1.0

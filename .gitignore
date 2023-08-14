@@ -1,1 +1,3 @@
 .vscode/
+*.tar.zst
+*zarf-sbom/
