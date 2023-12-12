@@ -66,6 +66,7 @@ github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/defenseunicorns/leapfrogai v0.0.0-20230813004444-ff40d877cedf h1:HngqC223EcX1JHaOmYh6V6io5iEkfkXttJzM9WFlzzQ=
 github.com/defenseunicorns/leapfrogai v0.0.0-20230813004444-ff40d877cedf/go.mod h1:doE8RgpT1VMLIpDuj843ik7E0+P0jAiNppQn/NHSj+s=
+github.com/defenseunicorns/leapfrogai v0.0.0-20231211200148-2053f00e680d/go.mod h1:oH7G3cP851PErwvQwJiOJGLP5wyvEtHTGqfQUS8QRMk=
 github.com/envoyproxy/go-control-plane v0.9.0/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
 github.com/envoyproxy/go-control-plane v0.9.1-0.20191026205805-5f8ba28d4473/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
 github.com/envoyproxy/go-control-plane v0.9.4/go.mod h1:6rpuAdCZL397s3pYoYcLgu1mIlRU8Am5FuJP05cCM98=

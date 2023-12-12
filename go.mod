@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/BurntSushi/toml v1.3.2
-	github.com/defenseunicorns/leapfrogai v0.0.0-20230813004444-ff40d877cedf
+	github.com/defenseunicorns/leapfrogai v0.0.0-20231211200148-2053f00e680d
 	github.com/fsnotify/fsnotify v1.6.0
 	github.com/gin-gonic/gin v1.9.1
 	github.com/golang/protobuf v1.5.3
