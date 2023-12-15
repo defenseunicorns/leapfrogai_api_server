@@ -8,7 +8,7 @@ require (
 	github.com/fsnotify/fsnotify v1.6.0
 	github.com/gin-gonic/gin v1.9.1
 	github.com/golang/protobuf v1.5.3
-	github.com/google/uuid v1.3.0
+	github.com/google/uuid v1.5.0
 	github.com/penglongli/gin-metrics v0.1.10
 	github.com/sashabaranov/go-openai v1.11.2
 	google.golang.org/grpc v1.56.1
